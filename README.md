@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App]
+项目基于 react、redux、react-redux、immutableJS等库开发
+CSS库：Styled-components
+(https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
